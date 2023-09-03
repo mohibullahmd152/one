@@ -123,6 +123,7 @@ img{
 /* about-section */
 .about-section{
     padding: 50px 0;
+    border-top: 2px solid #0dbf9b;
 }
 .about-title{
     text-align: center;
